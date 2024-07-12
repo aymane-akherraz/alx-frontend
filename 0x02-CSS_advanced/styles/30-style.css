@@ -54,7 +54,7 @@
   --header-logo-link-top: -1rem;
   --header-logo-link-left: 0;
 }
-* {
+*, *::after, *::before {
   box-sizing: border-box;
 }
 html {

@@ -31,7 +31,7 @@
   --section-footer-align: center;
   --footer-padding: 5rem 0 1rem;
 }
-* {
+*, *::after, *::before {
   box-sizing: border-box;
 }
 html {

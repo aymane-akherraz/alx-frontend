@@ -39,7 +39,7 @@
   --nav-item-link-hover: var(--color-primary);
   --section-tagline-margin: 0;
 }
-* {
+*, *::after, *::before {
   box-sizing: border-box;
 }
 html {

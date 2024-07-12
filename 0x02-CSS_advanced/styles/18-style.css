@@ -38,7 +38,7 @@
   --nav-item-margin: 0 0 3rem;
   --nav-item-link-hover: var(--color-primary);
 }
-* {
+*, *::after, *::before {
   box-sizing: border-box;
 }
 html {
